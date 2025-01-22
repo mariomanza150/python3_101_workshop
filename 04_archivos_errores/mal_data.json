@@ -1,0 +1,11 @@
+{
+    "name": "Mario Manzano",
+    "age": "29"  // Age should be an integer
+    "skills": ["Python", "Django" "Photography"],  // Missing comma between items
+    "address": { 
+        "city": "Mexico City",
+        "postal_code": 1100,  // Postal code has a typo (should be a string)
+        "country": "Mexico  // Missing closing quote
+    }
+  }
+  
